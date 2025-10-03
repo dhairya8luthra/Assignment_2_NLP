@@ -1,0 +1,2 @@
+dataset,model,intent_test_loss,intent_test_accuracy,intent_test_precision_macro,intent_test_recall_macro,intent_test_f1_macro,slot_test_loss,slot_test_precision_micro,slot_test_recall_micro,slot_test_f1_micro
+atis,LSTM,1.4119339345684243,0.7077267637178052,0.03077072885726142,0.043478260869496424,0.03603706341434574,0.3071855157613754,0.9346816069961916,0.9346816069961916,0.9346816064961916

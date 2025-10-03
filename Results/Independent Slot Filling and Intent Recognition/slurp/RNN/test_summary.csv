@@ -1,0 +1,2 @@
+dataset,model,intent_test_loss,intent_test_accuracy,intent_test_precision_macro,intent_test_recall_macro,intent_test_f1_macro,slot_test_loss,slot_test_precision_micro,slot_test_recall_micro,slot_test_f1_micro
+slurp,RNN,3.8603992750761726,0.06859448554135844,0.0007508944477978581,0.010660535117005604,0.0014029682393130799,1.2918620184063911,0.7247748787807146,0.7247748787807146,0.7247748782807145
